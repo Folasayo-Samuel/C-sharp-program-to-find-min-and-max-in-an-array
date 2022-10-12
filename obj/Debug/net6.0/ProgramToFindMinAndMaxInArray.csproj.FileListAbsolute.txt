@@ -1,0 +1,15 @@
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/bin/Debug/net6.0/ProgramToFindMinAndMaxInArray
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/bin/Debug/net6.0/ProgramToFindMinAndMaxInArray.deps.json
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/bin/Debug/net6.0/ProgramToFindMinAndMaxInArray.runtimeconfig.json
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/bin/Debug/net6.0/ProgramToFindMinAndMaxInArray.dll
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/bin/Debug/net6.0/ProgramToFindMinAndMaxInArray.pdb
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.csproj.AssemblyReference.cache
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.AssemblyInfoInputs.cache
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.AssemblyInfo.cs
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.dll
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/refint/ProgramToFindMinAndMaxInArray.dll
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.pdb
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ProgramToFindMinAndMaxInArray.genruntimeconfig.cache
+/home/saint/Desktop/ProgramToFindMinAndMaxInArray/obj/Debug/net6.0/ref/ProgramToFindMinAndMaxInArray.dll
